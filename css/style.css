@@ -5,3 +5,6 @@ div{
     width: 500;
     height: 300px;
 }
+.link{
+    display: block;
+}
